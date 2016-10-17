@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="card_picture_1" >
+        <item>@drawable/music</item>
+    </string-array>
+
+    <string-array name="music_track_1">
+        <item >http://f.wload.vc/files/sfd439/219159/Channa%20Mereya_64(wapking.fm).mp3</item>
+        <item >http://f.wload.vc/files/sfd438/218856/Bulleya_64(wapking.fm).mp3</item>
+
+    </string-array>
+</resources>
